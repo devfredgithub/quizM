@@ -1,0 +1,20 @@
+body
+{
+    background-color: #c7241b;
+    display: flex;
+    justify-content: center;
+}
+
+.titre h1
+{
+    display: flex;
+    justify-content: center;
+}
+
+.mario
+{
+    object-fit: cover;
+    height: 400px;
+    width: 90%;
+
+}
